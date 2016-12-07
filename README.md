@@ -1,19 +1,6 @@
-# [Phenomic](https://github.com/MoOx/phenomic) phenomic-theme-base
+# frontend
+Source for fozzl.com
 
-## Install dependencies
+Fozzl is a site built with [Phenomic](https://phenomic.io/), deployed to [Netlify](https://www.netlify.com/) with a "serverless" backend powered by [AWS Lambda](https://aws.amazon.com/lambda/).
 
-```sh
-npm install
-```
-
-## Run development server
-
-```sh
-npm start
-```
-
-## Build for production
-
-```sh
-npm run build
-```
+It is totally a work in progress for the foreseeable future.
